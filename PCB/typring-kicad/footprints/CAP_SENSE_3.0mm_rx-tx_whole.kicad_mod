@@ -1,0 +1,11 @@
+(module CAP_SENSE_3.0mm_rx-tx_whole (layer F.Cu) (tedit 6003B7F9)
+  (attr virtual)
+  (fp_text reference REF** (at 0.01 -2.11) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value CAP_SENSE_3.0mm_rx-tx_whole (at 0.01 -3.42) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy -1.463711 1.463711) (xy 1.463711 1.463711) (xy 0 2.927422)) (layer F.Cu) (width 0.03))
+  (fp_poly (pts (xy 1.463711 1.463711) (xy -1.463711 1.463711) (xy 0 0)) (layer F.Cu) (width 0.03))
+)

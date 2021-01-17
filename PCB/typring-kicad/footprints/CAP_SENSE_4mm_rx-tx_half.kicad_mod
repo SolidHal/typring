@@ -1,0 +1,10 @@
+(module CAP_SENSE_4mm_rx-tx_half (layer F.Cu) (tedit 6003B7B6)
+  (attr virtual)
+  (fp_text reference REF** (at 0.01 -2.11) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value CAP_SENSE_4mm_rx-tx_half (at 0.01 -3.42) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy 1.98 2) (xy -1.979798 2) (xy 0.000101 0.020101)) (layer F.Cu) (width 0.1))
+)
