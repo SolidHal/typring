@@ -34,7 +34,7 @@ ENDDEF
 DEF CAP_SENSE_3mm_rx-tx-_half U 0 0 N N 1 F N
 F0 "U" 0 0 50 H I C CNN
 F1 "CAP_SENSE_3mm_rx-tx-_half" 0 0 50 H I C CNN
-F2 "cap_sense:CAP_SENSE_3.5mm_rx-tx_half" 0 0 50 H I C CNN
+F2 "cap_sense:CAP_SENSE_3.0mm_rx-tx_half" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 P 4 0 1 0 0 -100 150 -250 -150 -250 0 -100 N
@@ -48,7 +48,7 @@ ENDDEF
 DEF CAP_SENSE_3mm_rx-tx-_whole U 0 0 N N 1 F N
 F0 "U" 0 0 50 H I C CNN
 F1 "CAP_SENSE_3mm_rx-tx-_whole" 0 0 50 H I C CNN
-F2 "cap_sense:CAP_SENSE_3mm_rx-tx_whole" 0 0 50 H I C CNN
+F2 "cap_sense:CAP_SENSE_3.0mm_rx-tx_whole" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 P 5 0 1 0 0 -100 -150 -250 0 -400 150 -250 0 -100 N
